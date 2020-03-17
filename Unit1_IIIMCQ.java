@@ -8,6 +8,7 @@
 public class Unit1_IIIMCQ
 {
     public void main(){
+        System.out.println("**Unit1 MCQ No.3:");
         System.out.println("\n \ndouble  d = 0.25;"+"\n int i = 3;" +"\n double diff = d - i;"+"\nSystem.out.print((int)diff - 0.5)");
         double d = 0.25;
         int i = 3;

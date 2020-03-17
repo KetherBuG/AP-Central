@@ -8,6 +8,7 @@
 public class Unit4_IIIMCQ
 {
   public void exe(){
+      System.out.println("\n **Unit 4 MCQ No.3");
       String word = "computer";
       int num = 3;
       String result = "";

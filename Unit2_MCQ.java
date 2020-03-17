@@ -3,6 +3,7 @@ public class Unit2_MCQ
 {
   public static void main(){
   Thing something = null;
+  System.out.println("\n **Unit 2 MCQ No.1");
   System.out.println("public class Thing"+
 "\n{\nprivate String color;"+
    "\npublic Thing(){"+
