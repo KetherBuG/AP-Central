@@ -17,6 +17,20 @@ public class Center
     Unit4_IIMCQ Unit44  = new Unit4_IIMCQ();;
     Unit4_IIIMCQ Unit444 = new Unit4_IIIMCQ();;
     Unit4_IVMCQ Unit4444 = new Unit4_IVMCQ();;
+    ArrayListZ Arr = new ArrayListZ();
+    ArrayListII Arr1 = new ArrayListII();
+    ArrayListIII Arr2 = new ArrayListIII();
+    ArrayListIV Arr3 = new ArrayListIV();
+    ArrayListV Arr4 = new ArrayListV();
+    ArrayListVI Arr5 = new ArrayListVI();
+    ArrayListVII Arr6 = new ArrayListVII();
+    ArrayListVIII Arr7 = new ArrayListVIII();
+    ArrayListXI Arr8 =  new ArrayListXI();
+    ArrayListX Arr9 = new ArrayListX();
+    ArrayListXI Arr10 = new ArrayListXI();
+    ArrayI Arr11 = new ArrayI();
+    ArrayII Arr22 = new ArrayII();
+    ArrayIII Arr33 = new ArrayIII();
     Unit1.main();
     Unit11.main();
     Unit111.main();
@@ -30,6 +44,21 @@ public class Center
     Unit44.exe();
     Unit444.exe();
     Unit4444.exe();
+    Arr.exe();
+    Arr1.exe();
+    Arr2.exe();
+    Arr3.exe();
+    Arr4.exe();
+    Arr5.exe();
+    Arr6.exe();
+    Arr7.exe();
+    Arr8.exe();
+    Arr9.exe();
+    Arr10.exe();
+    Arr11.exe();
+    Arr22.exe();
+    Arr33.exe();
+    
     }
     
  }
